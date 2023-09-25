@@ -1,4 +1,4 @@
-### Claro, aqui está uma versão mais neutra:
+### 
 
 Olá, meu nome é Lucas Reis e sou um desenvolvedor Front-End focado em aprimorar minhas habilidades em HTML, CSS e JavaScript. Tenho trabalhado com frameworks populares, como React e Angular, e estou sempre em busca de oportunidades para expandir meu conhecimento.
 
