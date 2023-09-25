@@ -1,5 +1,8 @@
-### Olá, sou Lucas Reis, um estudante de Análise de Sistemas apaixonado por Front-end e Design de UI/UX, buscando me especializar e criar experiências digitais excepcionais.
+### Claro, aqui está uma versão mais neutra:
 
+Olá, meu nome é Lucas Reis e sou um desenvolvedor Front-End focado em aprimorar minhas habilidades em HTML, CSS e JavaScript. Tenho trabalhado com frameworks populares, como React e Angular, e estou sempre em busca de oportunidades para expandir meu conhecimento.
+
+Estou interessado em colaborar em projetos desafiadores e aprender com outros profissionais do setor. Vamos criar a web do futuro juntos!
 ##
 
 <div>
