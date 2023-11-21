@@ -7,7 +7,7 @@ Estou interessado em colaborar em projetos desafiadores e aprender com outros pr
 
 <div>
   <a href="https://github.com/LUCASREIS0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUCASREIS0&layout=compact&langs_count=16&theme=highcontrast"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUCASREISO&layout=compact&langs_count=16&theme=highcontrast"/>
 </div>
 
 
