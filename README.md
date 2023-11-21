@@ -3,7 +3,7 @@
 Olá, meu nome é Lucas Reis e sou um desenvolvedor Front-End focado em aprimorar minhas habilidades em HTML, CSS e JavaScript. Tenho trabalhado com frameworks populares, como React e Angular, e estou sempre em busca de oportunidades para expandir meu conhecimento.
 
 Estou interessado em colaborar em projetos desafiadores e aprender com outros profissionais do setor. Vamos criar a web do futuro juntos!
-##
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
