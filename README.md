@@ -5,11 +5,11 @@ Olá, meu nome é Lucas Reis e sou um desenvolvedor Front-End focado em aprimora
 Estou interessado em colaborar em projetos desafiadores e aprender com outros profissionais do setor. Vamos criar a web do futuro juntos!
 ##
 
-<div>
-  <a href="https://github.com/LUCASREIS0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUCASREIS0&layout=compact&langs_count=16&theme=highcontrast"/>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-
 
 ##
 
