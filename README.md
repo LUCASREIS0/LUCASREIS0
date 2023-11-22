@@ -31,12 +31,9 @@ Sou um entusiasta do desenvolvimento web, focado em aprimorar habilidades em HTM
 ---
 
 ## Vamos Conectar!
-Você pode me encontrar nas seguintes plataformas e redes sociais:
 
-<div> 
-  <a href = "mailto:lucasreisdeveloper@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucasreisv/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://wa.me/558186580542" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-</div>
+Se quiser conversar, ficarei feliz em te responder. Você pode me encontrar nas seguintes plataformas:
 
-
+- 📧 E-mail: lucasreisdeveloper@gmail.com
+- 💼 LinkedIn: [Lucas Reis](https://www.linkedin.com/in/lucasreisv/)
+- 📱 WhatsApp: [+55 81 8658-0542](https://wa.me/558186580542)
