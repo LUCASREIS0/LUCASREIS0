@@ -36,4 +36,4 @@ Se quiser conversar, ficarei feliz em te responder. Você pode me encontrar nas 
 
 - 📧 E-mail: lucasreisdeveloper@gmail.com
 - 💼 LinkedIn: [Lucas Reis](https://www.linkedin.com/in/lucasreisv/)
-- 📱 WhatsApp: [+55 81 8658-0542](https://wa.me/558186580542)
+- 📱 WhatsApp: [+55 81 98658-0542](https://wa.me/558186580542)
