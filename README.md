@@ -16,7 +16,7 @@ Sou um entusiasta do desenvolvimento web, focado em aprimorar habilidades em HTM
 
 - 🌱 Busco constantemente aprender e aprimorar minhas habilidades.
 - 💼 Em busca de desafios em projetos inovadores e colaborativos.
-- 🔭 Interessado em desenvolvimento web, interfaces de usuário e experiência do usuário (UI/UX).
+- 🔭 Interessado em desenvolvimento web e (UI/UX).
 
 ---
 
