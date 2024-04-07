@@ -33,3 +33,15 @@
 <img alt="SASS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
 <img alt="tailwindcss" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" />
 </p>
+
+
+---
+
+<p><strong>Produtividade e Prototipagem</strong></p>  
+
+<p>
+  <img alt="Notion" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" />
+  <img alt="Figma" width="40px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
+</p>
+
+
