@@ -2,9 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right">
 
-<p><strong>Olá, eu sou Lucas Reis! 👋</strong></p>
 
-<p>Um desenvolvedor Front-End apaixonado por criar experiências incríveis na web.</p>
+<p>Desenvolvedor apaixonado por criar experiências incríveis na web.</p>
 
 <p>
   <a href="mailto:lucasreisdeveloper@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
@@ -16,7 +15,7 @@
 
 <p><strong>Sobre Mim</strong></p>
 
-<p>Sou um desenvolvedor web com foco em aprimorar habilidades em HTML, CSS e JavaScript, enquanto também busco explorar frameworks como React e Angular. Buscando aprender e me aprimorar, especialmente na área de desenvolvimento web e UX/UI</p>
+<p>Sou um desenvolvedor Front-End com foco em aprimorar habilidades em JavaScript, enquanto também busco explorar frameworks como React e Angular. Buscando aprender e me aprimorar, especialmente na área de desenvolvimento web e UX/UI</p>
 
 <p>
 - 🌱 Busco constantemente aprender e aprimorar minhas habilidades.<br>
