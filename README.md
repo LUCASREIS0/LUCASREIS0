@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right">
 
 
-<p>Desenvolvedor apaixonado por criar experiências incríveis na web.</p>
+<p> Desenvolvedor comprometido em criar experiências de alta qualidade.</p>
 
 <p>
   <a href="mailto:lucasreisdeveloper@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
@@ -15,13 +15,14 @@
 
 <p><strong>Sobre Mim</strong></p>
 
-<p>Sou um desenvolvedor Front-End com foco em aprimorar habilidades em JavaScript, enquanto também busco explorar frameworks como React e Angular. Buscando aprender e me aprimorar, especialmente na área de desenvolvimento web e UX/UI</p>
+<p>Sou um desenvolvedor Front-End focado em aprimorar minhas habilidades em JavaScript, e também estou explorando frameworks como React e Angular. Estou buscando aprender e me aprimorar, especialmente na área de desenvolvimento web, com ênfase em TypeScript.</p>
 
 <p>
-- 🌱 Busco constantemente aprender e aprimorar minhas habilidades.<br>
-- 💼 Em busca de desafios em projetos inovadores e colaborativos.<br>
-- 🔭 Interessado em desenvolvimento web e (UI/UX).<br>
+-  🌱 Estou continuamente buscando aprender e aprimorar minhas habilidades.<br>
+- 💼  Procuro por desafios em projetos inovadores e colaborativos.<br>
+- 🔭 Tenho interesse em desenvolvimento web.<br>
 </p>
+
 
 ---
 
