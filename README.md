@@ -1,5 +1,5 @@
 
-# Lucas Reis ©️
+# Lucas Reis 
 
 ### Sobre Mim 🧙‍♂️
 
