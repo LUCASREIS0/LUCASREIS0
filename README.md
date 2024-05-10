@@ -6,10 +6,6 @@ Olá! Sou Lucas Reis, um desenvolvedor Front-End comprometido em criar experiên
 
 Atualmente, concentro meus esforços no desenvolvimento Front-End, com especialização em JavaScript. Estou constantemente explorando e aprofundando meus conhecimentos em frameworks como React, Angular E Vue. Além de dedicar tempo para dominar conceitos avançados, como TypeScript.
 
-## Experiência e Objetivos
-
-Minha trajetória profissional é moldada por desafios estimulantes e projetos inovadores. Estou sempre em busca de oportunidades que me permitam aplicar minhas habilidades de forma criativa e colaborativa, contribuindo para o sucesso de equipes e organizações.
-
 ## Habilidades e Tecnologias
 
 Como desenvolvedor Front-End, possuo expertise em diversas tecnologias essenciais para a construção de interfaces web modernas e responsivas. Minha caixa de ferramentas inclui:
