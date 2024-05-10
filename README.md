@@ -1,7 +1,7 @@
 
 ## Sobre Mim 🧙‍♂️
 
-Olá! Sou Lucas Reis, um desenvolvedor Front-End comprometido em criar experiências digitais de alta qualidade. Minha jornada no mundo da tecnologia é marcada por uma incessante busca pelo aprimoramento constante e pelo domínio das mais recentes tendências e tecnologias.
+Sou Lucas Reis, um desenvolvedor Front-End comprometido em criar experiências de alta qualidade. Minha jornada no mundo da tecnologia é marcada por uma incessante busca pelo aprimoramento constante e pelo domínio das mais recentes tendências e tecnologias.
 
 Atualmente, concentro meus esforços no desenvolvimento Front-End, com especialização em JavaScript. Estou constantemente explorando e aprofundando meus conhecimentos em frameworks como React, Angular E Vue. Além de dedicar tempo para dominar conceitos avançados, como TypeScript.
 
