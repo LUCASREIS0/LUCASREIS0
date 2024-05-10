@@ -1,6 +1,6 @@
-# Lucas Reis - Desenvolvedor Front-End
+# ⬛ Lucas Reis - Desenvolvedor Front-End ⬛
 
-## Sobre Mim
+## Sobre Mim 
 
 Olá! Sou Lucas Reis, um desenvolvedor Front-End comprometido em criar experiências digitais de alta qualidade. Minha jornada no mundo da tecnologia é marcada por uma incessante busca pelo aprimoramento constante e pelo domínio das mais recentes tendências e tecnologias.
 
